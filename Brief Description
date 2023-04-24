@@ -1,0 +1,5 @@
+Black Friday Shipping Manager Java, Parallel Programming
+
+• Given a list (text file) with orders from clients and one with the products in stock, the program outputs 2 files listing
+the status of each order (completed or not) and the products, respectively.
+• The program computes each order and each product list in a parallel manner for the utmost scalability.
